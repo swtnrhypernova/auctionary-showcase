@@ -3,11 +3,14 @@
 > **Note on repository access:** This is the public showcase repository for a university full-stack development project. The original repository contains provided starter code and remains private for academic integrity reasons. This README documents my design decisions and the features I built on top of that starting point. Representative code excerpts are in [`showcase/`](./showcase).
 
 <p align="center">
-  <img src="<img width="1470" height="956" alt="auctionary home page" src="https://github.com/user-attachments/assets/89fbe869-9e15-4962-a6f3-35d1d4fedb54" />
-" alt="Auctionary homepage" width="700">
+  <img src="screenshot-home.png" alt="Auctionary homepage" width="700">
 </p>
 
 ## 🎥 Demo Recording
+
+
+https://github.com/user-attachments/assets/6dca3fb6-59cf-4937-8ad9-c68897599340
+
 
 
 ## What it is
